@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-23T18:46:17 GMT+07:00" name="Lab06 Suite" finished-at="2026-10-23T18:46:53 GMT+07:00" duration-ms="36106">
+    <groups>
+    </groups>
+    <test started-at="2026-10-23T18:46:17 GMT+07:00" name="Practice Form Test" finished-at="2026-10-23T18:46:53 GMT+07:00" duration-ms="36106">
+      <class name="com.example.demo.PracticeFormTest">
+        <test-method is-config="true" signature="setupClass()[pri:0, instance:com.example.demo.PracticeFormTest@1283bb96]" started-at="2026-10-23T18:46:17 GMT+07:00" name="setupClass" finished-at="2026-10-23T18:46:17 GMT+07:00" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupClass -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.demo.PracticeFormTest@1283bb96]" started-at="2026-10-23T18:46:17 GMT+07:00" name="setUp" finished-at="2026-10-23T18:46:24 GMT+07:00" duration-ms="6856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAutomationPracticeForm(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.example.demo.PracticeFormTest@1283bb96]" started-at="2026-10-23T18:46:24 GMT+07:00" name="testAutomationPracticeForm" data-provider="formDataProvider" finished-at="2026-10-23T18:46:37 GMT+07:00" duration-ms="12601" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nguyen]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[An]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[an.nguyen@example.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[0912345678]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[May]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomationPracticeForm -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.demo.PracticeFormTest@1283bb96]" started-at="2026-10-23T18:46:37 GMT+07:00" name="tearDown" finished-at="2026-10-23T18:46:37 GMT+07:00" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.demo.PracticeFormTest@1283bb96]" started-at="2026-10-23T18:46:37 GMT+07:00" name="setUp" finished-at="2026-10-23T18:46:37 GMT+07:00" duration-ms="398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAutomationPracticeForm(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.example.demo.PracticeFormTest@1283bb96]" started-at="2026-10-23T18:46:37 GMT+07:00" name="testAutomationPracticeForm" data-provider="formDataProvider" finished-at="2026-10-23T18:46:45 GMT+07:00" duration-ms="8016" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tran]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Binh]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[binh.tran@example.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[0987654321]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1998]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[August]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomationPracticeForm -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.demo.PracticeFormTest@1283bb96]" started-at="2026-10-23T18:46:45 GMT+07:00" name="tearDown" finished-at="2026-10-23T18:46:45 GMT+07:00" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.demo.PracticeFormTest@1283bb96]" started-at="2026-10-23T18:46:45 GMT+07:00" name="setUp" finished-at="2026-10-23T18:46:46 GMT+07:00" duration-ms="304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAutomationPracticeForm(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.example.demo.PracticeFormTest@1283bb96]" started-at="2026-10-23T18:46:46 GMT+07:00" name="testAutomationPracticeForm" data-provider="formDataProvider" finished-at="2026-10-23T18:46:53 GMT+07:00" duration-ms="7477" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Le]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Cuong]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[cuong.le@example.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[0905112233]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[2002]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[December]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[05]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomationPracticeForm -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.demo.PracticeFormTest@1283bb96]" started-at="2026-10-23T18:46:53 GMT+07:00" name="tearDown" finished-at="2026-10-23T18:46:53 GMT+07:00" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.example.demo.PracticeFormTest -->
+    </test> <!-- Practice Form Test -->
+  </suite> <!-- Lab06 Suite -->
+</testng-results>
